@@ -19,6 +19,8 @@ You can collect points by purchasing products from Travus sales points. Travus p
 
 ![travus-loyalty](https://raw.githubusercontent.com/rebarhama/Travus-Loyalty-Program/main/user-wallet-info.png)
 
+![travus-loyalty](https://raw.githubusercontent.com/rebarhama/Travus-Loyalty-Program/main/admin-dashboard.png)
+
 ![travus-loyalty](https://raw.githubusercontent.com/rebarhama/Travus-Loyalty-Program/main/admin-user-management.png)
 
 
